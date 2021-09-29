@@ -1,0 +1,18 @@
+/* Mi primer pseudocodigo
+D Hinojosa
+ITPA
+TICS
+
+Programa que imprime un nombre que capturamos
+
+*/
+
+
+Algoritmo ImprimirNombre;
+VAR
+     CARACTER minombre;
+ INICIO
+     ESCRIBIR("¿Cuál es el nombre?");
+     LEER (minombre);
+     Escribir(minombre);
+FIN
