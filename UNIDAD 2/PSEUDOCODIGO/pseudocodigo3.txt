@@ -1,0 +1,12 @@
+Inicio
+   Definir a,b,,c,d,e,promedio Como real
+   Escribir "Ingresa las 5 calificaciones:"
+   leer a,b,c,d,e
+
+
+   promedio = (a+b+c+d+e)/5
+
+
+
+   Escribir "El promedio de las 5 calificaciones es: ",promedio
+Fin
