@@ -1,13 +1,16 @@
 
- Algoritmo NombresApellidos
-
-// Pedir un nombre y lo imprime. También imprimir el apellido
-
+ 
+     Algoritmo ImprimirNombre;
 VAR
+     CARACTER minombre;
+     CARACTER miapellido;
+ INICIO
+     ESCRIBIR("¿Cuál es el nombre?");
+     LEER (minombre);
+ESCRIBIR("¿Cuál es el apellido");
+     LEER (miapellido);
+     
 
-CARACTER 
-MiNombres;
 
-
-CONS
-     ApellidosHinojosa -> Meza;
+     Escribir(minombre + miapellido);
+FIN

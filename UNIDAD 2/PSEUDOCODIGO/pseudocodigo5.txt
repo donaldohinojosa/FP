@@ -1,24 +1,16 @@
-/*
-Mi primer pseudocodigo
-D Hinojosa
-ITPA 
-TICS
-
-Programa 2: cuadrado de un mumero.
-imprimir el resulatdo
 
 
-*/
-
-ALGORITMO cuadrado de numero;
+ALGORITMO Cuadrados_1;
 VAR
-     INT   numero1;
+
+entero nNumero,nCuadrado;
      
 INICIO 
-     ESCRIBIR("Dame un numero")
-     LEER(numero1);
+     ESCRIBIR("Dime un número")
+     LEER( nNumero );
      
-     resultado = cuadrado de un numero;
+     nCuadrado <- SQR (nNumero);
 
-     ESCRIBIR("El resulatdo es: 
-     resultado")
+     ESCRIBIR( nCuadrado)
+
+     FIN

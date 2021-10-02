@@ -1,0 +1,17 @@
+Inicio
+
+   Definir a,b,,c,d,e,promedio Como real
+   Escribir "Ingresa las 5 calificaciones:"
+   
+   LEER ( entrada );
+   ESCRIBIR ( entrada );
+
+
+   FIN
+
+
+ 
+
+
+
+   
