@@ -1,0 +1,13 @@
+
+ Algoritmo NombresApellidos
+
+// Pedir un nombre y lo imprime. También imprimir el apellido
+
+VAR
+
+CARACTER 
+MiNombres;
+
+
+CONS
+     ApellidosHinojosa -> Meza;
