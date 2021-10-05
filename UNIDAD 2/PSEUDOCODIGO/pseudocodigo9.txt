@@ -1,0 +1,33 @@
+//Hacer un programa que te de 5 opciones de peliculas y al momento de seleccionar una te imprima el nombrre de la película//
+
+ALGORITMO 
+
+VAR 
+   ENTERO d;
+INICIO
+   ESCRIBIR("Introduce un número del 1 al 5");
+   LEER( d );
+
+
+   SI (d >=1 ) AND (d <= 7)
+   EN CASO DE d HACER
+        1: ESCRIBIR("Harry Potter Y La Piedra Filosofal")
+
+        2: ESCRIBIR("Harry Potter Y La Cámara Secreta")
+
+        3: ESCRIBIR("Harry Potter Y El Prisionero de Azkaban")
+
+        4: ESCRIBIR("Harry Potter Y El Cáliz de Fuego")
+
+        5: ESCRIBIR("Harry Potter Y La Orden del Fénix")
+
+   FIN CASO
+SINO
+   ESCRIBIR("El valor no es válido");
+FIN SI
+FIN  
+
+
+
+
+

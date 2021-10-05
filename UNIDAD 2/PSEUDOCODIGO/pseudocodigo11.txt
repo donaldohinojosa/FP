@@ -1,0 +1,16 @@
+//Hacer un programa que  pida calificaciones y que muestre si está aprobado o reprobado el alumno//
+
+Algoritmo 
+     Definir a,b,c, promedio Como Real
+     Escribir "Escribe la calificaciones: "
+     leer a,b,c,d,e 
+
+     promedio =(a+b+c+d+e) / 5
+
+     si promedio >= 70 Entonces
+        Escribir "Tu promedio es: ",promedio," aprobaste el curso"
+
+     SiNo
+        Escribir "Tu promedio es: ",promedio," no aprobaste el curso"
+
+     FinSi 
