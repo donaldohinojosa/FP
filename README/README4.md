@@ -8,7 +8,7 @@ Una Variable es un espacio de la memoria del computador que permite almacenar in
 ### CONSTANTE
 Una constante es un valor de tipo permanente, ya que no puede modificarse, al menos no dentro del contexto o situación para el cual está.
 
-###FUNCIÓN
+### FUNCIÓN
 Una función es una regla de correspondencia entre dos conjuntos de tal manera que a cada elemento del primer conjunto le corresponde uno y sólo un elemento del segundo conjunto.
 
 ### CLASE
