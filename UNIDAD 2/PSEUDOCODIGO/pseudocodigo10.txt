@@ -1,7 +1,0 @@
-//Hacer un programa que te pida un número y se imprima su nombre la cantidad de veces del número//
-
-Algoritmo
-     Para i <- 10 Hasta 10
-            Escribir Sin Saltar i, " "
-     Fin Para
-FinAlgoritmo 
