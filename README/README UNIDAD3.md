@@ -6,7 +6,8 @@
 En informática, una clase es una plantilla para la creación de objetos de datos según un modelo predefinido. Las clases se utilizan para representar entidades o conceptos, como los sustantivos en el lenguaje. 
 Las clases se utilizan para representar entidades o conceptos. Cada clase es un modelo que define un conjunto de variables (el estado), y métodos apropiados para operar con dichos datos (el comportamiento). Cada objeto creado a partir de la clase se denomina instancia de la clase.
 
-### Objeto es el concepto clave de la Programación Orientada a Objetos, la idea de objeto es similar a la del mundo real, un objeto puede ser una silla, una mesa.
+### OBJETO 
+Objeto es el concepto clave de la Programación Orientada a Objetos, la idea de objeto es similar a la del mundo real, un objeto puede ser una silla, una mesa.
 
 Los objetos tienen dos características:Un estado y un comportamiento.
 
